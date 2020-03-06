@@ -14,8 +14,6 @@ library.}
   spec.license               = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.6.5")
 
-  spec.metadata["allowed_push_host"] =
-      'https://rubygems.pkg.github.com/Diligent-Software-LLC'
   spec.metadata["homepage_uri"]      = spec.homepage
   spec.metadata["source_code_uri"]   =
       'https://github.com/Diligent-Software-LLC/data_structure_error_library'

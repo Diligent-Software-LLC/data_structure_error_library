@@ -17,9 +17,15 @@
     <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/coverage" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="changelog" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -79,6 +85,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Test::Unit/Shoulda/Minitest.DataStructureErrorLibraryTest" />
         <item itemvalue="Test::Unit/Shoulda/Minitest.DataStructureErrorLibraryTest" />
       </list>
     </recent_temporary>
@@ -141,7 +148,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -167,30 +176,30 @@
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="183" y="23" width="1252" height="974" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1583508435354" />
-    <state width="1413" height="271" key="GridCell.Tab.0.bottom" timestamp="1583453785524">
+    <state width="1413" height="271" key="GridCell.Tab.0.bottom" timestamp="1583517300125">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1413" height="271" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1583453785524" />
-    <state width="1413" height="271" key="GridCell.Tab.0.center" timestamp="1583453785524">
+    <state width="1413" height="271" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1583517300125" />
+    <state width="1413" height="271" key="GridCell.Tab.0.center" timestamp="1583517300124">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1413" height="271" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1583453785524" />
-    <state width="1413" height="271" key="GridCell.Tab.0.left" timestamp="1583453785523">
+    <state width="1413" height="271" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1583517300124" />
+    <state width="1413" height="271" key="GridCell.Tab.0.left" timestamp="1583517300124">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1413" height="271" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1583453785523" />
-    <state width="1413" height="271" key="GridCell.Tab.0.right" timestamp="1583453785524">
+    <state width="1413" height="271" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1583517300124" />
+    <state width="1413" height="271" key="GridCell.Tab.0.right" timestamp="1583517300125">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1413" height="271" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1583453785524" />
+    <state width="1413" height="271" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1583517300125" />
     <state x="460" y="119" key="SettingsEditor" timestamp="1583508180347">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="460" y="119" key="SettingsEditor/0.23.1680.975@0.23.1680.975" timestamp="1583508180347" />
-    <state x="433" y="250" key="Vcs.Push.Dialog.v2" timestamp="1583440999459">
+    <state x="433" y="250" key="Vcs.Push.Dialog.v2" timestamp="1583517337412">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="433" y="250" key="Vcs.Push.Dialog.v2/0.23.1680.975@0.23.1680.975" timestamp="1583440999459" />
+    <state x="433" y="250" key="Vcs.Push.Dialog.v2/0.23.1680.975@0.23.1680.975" timestamp="1583517337412" />
     <state x="498" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1583453859014">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
