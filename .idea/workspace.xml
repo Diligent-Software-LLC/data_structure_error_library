@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7745e5d4-fa5b-4a26-b149-ac2bbe8b2312" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structure_error_library.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/data_structure_error_library.gemspec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/data_structure_error_library.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/data_structure_error_library.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/data_structure_error_library/version.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/data_structure_error_library/version.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/data_structure_error_library_test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/data_structure_error_library_test.rb" afterDir="false" />
-    </list>
+    <list default="true" id="7745e5d4-fa5b-4a26-b149-ac2bbe8b2312" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -120,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583440984936</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Integrated Components&#10;&#10;Required data_structure_error_impl, removed template code in data_structure_error_library.rb, changed the version test name, fixed duplicate dependencies in the gemspec and Gemfile, fixed the rake version (12.0 &lt;= 13.0 -&gt; &gt;= 13.0). Lastly, added badges in the README.md template.">
+      <created>1583454872508</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583454872508</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,14 +128,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initializing Remote Repository.&#10;&#10;Remote repository &quot;data_structure_error_library&quot; created." />
-    <option name="LAST_COMMIT_MESSAGE" value="Initializing Remote Repository.&#10;&#10;Remote repository &quot;data_structure_error_library&quot; created." />
+    <MESSAGE value="Integrated Components&#10;&#10;Required data_structure_error_impl, removed template code in data_structure_error_library.rb, changed the version test name, fixed duplicate dependencies in the gemspec and Gemfile, fixed the rake version (12.0 &lt;= 13.0 -&gt; &gt;= 13.0). Lastly, added badges in the README.md template." />
+    <option name="LAST_COMMIT_MESSAGE" value="Integrated Components&#10;&#10;Required data_structure_error_impl, removed template code in data_structure_error_library.rb, changed the version test name, fixed duplicate dependencies in the gemspec and Gemfile, fixed the rake version (12.0 &lt;= 13.0 -&gt; &gt;= 13.0). Lastly, added badges in the README.md template." />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="377" y="112" key="CommitChangelistDialog2" timestamp="1583440984337">
+    <state x="183" y="23" width="1252" height="974" key="CommitChangelistDialog2" timestamp="1583454872172">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="377" y="112" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1583440984337" />
+    <state x="183" y="23" width="1252" height="974" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1583454872172" />
     <state width="1413" height="271" key="GridCell.Tab.0.bottom" timestamp="1583453785524">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
