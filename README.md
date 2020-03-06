@@ -1,15 +1,14 @@
 # DataStructureErrorLibrary ![Gem](https://img.shields.io/gem/v/data_structure_error_library) ![Gem](https://img.shields.io/gem/dt/data_structure_error_library) ![Travis (.com) branch](https://img.shields.io/travis/com/Diligent-Software-LLC/data_structure_error_library/master)
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/data_structure_error_library`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+DataStructureErrorLibrary is a DataStructureError exception class library. The 
+acceptable types are Array, Hash, Queue, and SizedQueue.
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'data_structure_error_library'
+gem 'data_structure_error_library', '~> 0.1.0'
 ```
 
 And then execute:
@@ -18,28 +17,36 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install data_structure_error_library
+    $ gem install data_structure_error_library -v 0.1
 
-## Usage
+## Source Documentation
 
-TODO: Write usage instructions here
-
-## Development
-
-After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake test` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
-
-To install this gem onto your local machine, run `bundle exec rake install`. To release a new version, update the version number in `version.rb`, and then run `bundle exec rake release`, which will create a git tag for the version, push git commits and tags, and push the `.gem` file to [rubygems.org](https://rubygems.org).
+Refer the library homepage's [documentation](https://docs.diligentsoftware.org/datastructureerror/library/documentation).
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/data_structure_error_library. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/[USERNAME]/data_structure_error_library/blob/master/CODE_OF_CONDUCT.md).
+### Code of Conduct
 
+Everyone interacting in the DataStructureErrorLibrary project's codebases, 
+issue trackers, chat rooms and mailing lists is expected to follow the 
+[code of conduct](https://github.com/Diligent-Software-LLC/data_structure_error_library/blob/master/CODE_OF_CONDUCT.md).
+
+### Bug Reports
+
+Refer the [Bug Report procedure](https://github.com/Diligent-Software-LLC/data_structure_error_library/issues/1).
+
+### Bug Fixes
+
+Refer the [Bug Fix procedure](https://github.com/Diligent-Software-LLC/data_structure_error_library/issues/2).
+
+### Donating
+
+All donations, regardless of quantity, are helpful. Donations support 
+sustainability and continuous improvement. Make a donation at the project's
+ [collective](https://opencollective.com/datastructureerror) page. Greatly 
+ appreciated.
 
 ## License
 
-Copyright (C) 2020 Diligent Software LLC. All rights reserved. Released under the MIT License.
-The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
-
-## Code of Conduct
-
-Everyone interacting in the DataStructureErrorLibrary project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/data_structure_error_library/blob/master/CODE_OF_CONDUCT.md).
+Copyright (C) 2020 Diligent Software LLC. All rights reserved. The gem is available as open source under the terms of the
+ [MIT License](https://opensource.org/licenses/MIT).
