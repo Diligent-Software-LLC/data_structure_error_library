@@ -1,4 +1,4 @@
-# DataStructureErrorLibrary
+# DataStructureErrorLibrary ![Gem](https://img.shields.io/gem/v/data_structure_error_library) ![Gem](https://img.shields.io/gem/dt/data_structure_error_library) ![Travis (.com) branch](https://img.shields.io/travis/com/Diligent-Software-LLC/data_structure_error_library/master)
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/data_structure_error_library`. To experiment with that code, run `bin/console` for an interactive prompt.
 
