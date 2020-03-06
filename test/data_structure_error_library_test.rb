@@ -1,11 +1,9 @@
 require "test_helper"
 
 class DataStructureErrorLibraryTest < Minitest::Test
-  def test_that_it_has_a_version_number
+
+  def test_version_defined()
     refute_nil ::DataStructureErrorLibrary::VERSION
   end
 
-  def test_it_does_something_useful
-    assert false
-  end
 end
