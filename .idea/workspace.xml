@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7745e5d4-fa5b-4a26-b149-ac2bbe8b2312" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +107,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583440847607</updated>
       <workItem from="1583440858675" duration="3488000" />
-      <workItem from="1583455103297" duration="11822000" />
+      <workItem from="1583455103297" duration="13159000" />
     </task>
     <task id="LOCAL-00001" summary="Initializing Remote Repository.&#10;&#10;Remote repository &quot;data_structure_error_library&quot; created.">
       <created>1583440984936</created>
@@ -124,16 +123,35 @@
       <option name="project" value="LOCAL" />
       <updated>1583454872508</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Wrote README.md&#10;&#10;Wrote README.md.">
+      <created>1583508435826</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1583508435826</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initializing Remote Repository.&#10;&#10;Remote repository &quot;data_structure_error_library&quot; created." />
     <MESSAGE value="Integrated Components&#10;&#10;Required data_structure_error_impl, removed template code in data_structure_error_library.rb, changed the version test name, fixed duplicate dependencies in the gemspec and Gemfile, fixed the rake version (12.0 &lt;= 13.0 -&gt; &gt;= 13.0). Lastly, added badges in the README.md template." />
-    <option name="LAST_COMMIT_MESSAGE" value="Integrated Components&#10;&#10;Required data_structure_error_impl, removed template code in data_structure_error_library.rb, changed the version test name, fixed duplicate dependencies in the gemspec and Gemfile, fixed the rake version (12.0 &lt;= 13.0 -&gt; &gt;= 13.0). Lastly, added badges in the README.md template." />
+    <MESSAGE value="Wrote README.md&#10;&#10;Wrote README.md." />
+    <option name="LAST_COMMIT_MESSAGE" value="Wrote README.md&#10;&#10;Wrote README.md." />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -145,10 +163,10 @@
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="392" y="142" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.975@0.23.1680.975" timestamp="1583504971517" />
-    <state x="183" y="23" width="1252" height="974" key="CommitChangelistDialog2" timestamp="1583454872172">
+    <state x="183" y="23" width="1252" height="974" key="CommitChangelistDialog2" timestamp="1583508435355">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="183" y="23" width="1252" height="974" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1583454872172" />
+    <state x="183" y="23" width="1252" height="974" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1583508435354" />
     <state width="1413" height="271" key="GridCell.Tab.0.bottom" timestamp="1583453785524">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
