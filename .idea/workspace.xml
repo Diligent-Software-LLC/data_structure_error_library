@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="ENABLE_SUITABLE_CONFIGURATION_CACHING" value="true" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+    <option name="showStatusBarWidget" value="true" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7745e5d4-fa5b-4a26-b149-ac2bbe8b2312" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/data_structure_error_library.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/data_structure_error_library.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data_structure_error_library.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/data_structure_error_library.gemspec" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,16 +69,23 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.jetbrains.youtrack.notifications" value="" />
     <property name="nodejs.protractor.protractor_package" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="upsource.global.settings" />
   </component>
   <component name="RubyModuleManagerSettings">
     <option name="blackListedRootsPaths">
       <list>
         <option value="$PROJECT_DIR$" />
       </list>
+    </option>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mkdir artifacts" />
+      <command value="mv data_structure_error_library-0.1.1.gem artifacts" />
     </option>
   </component>
   <component name="RunManager">
@@ -117,6 +151,8 @@
       <workItem from="1583440858675" duration="3488000" />
       <workItem from="1583455103297" duration="13159000" />
       <workItem from="1583517439492" duration="379000" />
+      <workItem from="1583681919803" duration="68000" />
+      <workItem from="1584373312668" duration="1529000" />
     </task>
     <task id="LOCAL-00001" summary="Initializing Remote Repository.&#10;&#10;Remote repository &quot;data_structure_error_library&quot; created.">
       <created>1583440984936</created>
@@ -147,7 +183,13 @@
       <updated>1583517615580</updated>
     </task>
     <option name="localTasksCounter" value="5" />
-    <servers />
+    <servers>
+      <YouTrack url="https://macbook-pro.local:8443">
+        <option name="defaultSearch" value="Board Library: 0.2.0 #Setup " />
+        <option name="shouldFormatCommitMessage" value="true" />
+        <username>admin</username>
+      </YouTrack>
+    </servers>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -174,6 +216,10 @@
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="431" y="176" key="#Servers" timestamp="1584373521078">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="431" y="176" key="#Servers/0.23.1680.975@0.23.1680.975" timestamp="1584373521078" />
     <state x="745" y="364" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1583507044468">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
@@ -186,34 +232,38 @@
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="183" y="23" width="1252" height="974" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1583517615236" />
-    <state width="1413" height="271" key="GridCell.Tab.0.bottom" timestamp="1583517874351">
+    <state width="1504" height="271" key="GridCell.Tab.0.bottom" timestamp="1584373615557">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1413" height="271" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1583517874351" />
-    <state width="1413" height="271" key="GridCell.Tab.0.center" timestamp="1583517874348">
+    <state width="1504" height="271" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1584373615557" />
+    <state width="1504" height="271" key="GridCell.Tab.0.center" timestamp="1584373615557">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1413" height="271" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1583517874348" />
-    <state width="1413" height="271" key="GridCell.Tab.0.left" timestamp="1583517874347">
+    <state width="1504" height="271" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1584373615557" />
+    <state width="1504" height="271" key="GridCell.Tab.0.left" timestamp="1584373615556">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1413" height="271" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1583517874347" />
-    <state width="1413" height="271" key="GridCell.Tab.0.right" timestamp="1583517874349">
+    <state width="1504" height="271" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1584373615556" />
+    <state width="1504" height="271" key="GridCell.Tab.0.right" timestamp="1584373615557">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1413" height="271" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1583517874349" />
-    <state x="460" y="119" key="SettingsEditor" timestamp="1583508180347">
+    <state width="1504" height="271" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1584373615557" />
+    <state x="460" y="119" key="SettingsEditor" timestamp="1583681962226">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="460" y="119" key="SettingsEditor/0.23.1680.975@0.23.1680.975" timestamp="1583508180347" />
+    <state x="460" y="119" key="SettingsEditor/0.23.1680.975@0.23.1680.975" timestamp="1583681962226" />
     <state x="433" y="250" key="Vcs.Push.Dialog.v2" timestamp="1583517816265">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="433" y="250" key="Vcs.Push.Dialog.v2/0.23.1680.975@0.23.1680.975" timestamp="1583517816265" />
-    <state x="498" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1583453859014">
+    <state x="496" y="235" width="670" height="675" key="run.anything.popup" timestamp="1584373611911">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="498" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1680.975@0.23.1680.975" timestamp="1583453859014" />
+    <state x="496" y="235" width="670" height="675" key="run.anything.popup/0.23.1680.975@0.23.1680.975" timestamp="1584373611911" />
+    <state x="498" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1584374283238">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="498" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1680.975@0.23.1680.975" timestamp="1584374283238" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/data_structure_error_library@DataStructureErrorLibraryTest.rcov" NAME="DataStructureErrorLibraryTest Coverage Results" MODIFIED="1583453745898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="data_structure_error_library" />
