@@ -1,11 +1,12 @@
 VERSION = '0.2.0'
 
 Gem::Specification.new do |spec|
-  spec.name    = "data_structure_error_library"
-  spec.version = VERSION
-  spec.authors = ["Bradley J. Tannor", 'Diligent Software LLC']
-  spec.email   = ["bradleytannor@gmail.com"]
 
+  # Required attributes.
+  spec.name                  = "data_structure_error_library"
+  spec.version               = VERSION
+  spec.authors               = ["Bradley J. Tannor", 'Diligent Software LLC']
+  spec.email                 = ["bradleytannor@gmail.com"]
   spec.summary               = %q{A DataStructureError exception class
 library.}
   spec.description           = %q{A DataStructureError exception class
@@ -19,6 +20,7 @@ Greatly appreciated.}
   spec.license               = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.6.5")
 
+  # Metadata.
   spec.metadata["homepage_uri"]    = spec.homepage
   spec.metadata["source_code_uri"] =
       'https://github.com/Diligent-Software-LLC/data_structure_error_library'
