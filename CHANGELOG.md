@@ -1,5 +1,15 @@
 # Changelog
 
+## v0.2.1, 2020-03-31
+
+### Added
+
+### Edited
+
+### Fixed
+
+- Load bug. Accessing the files outside the project raised errors.
+
 ## 0.2.0 -- 2020-03-16
 
 ### Added
