@@ -1,10 +1,10 @@
-VERSION = '0.2.0'
+require_relative 'lib/data_structure_error_library/version'
 
 Gem::Specification.new do |spec|
 
   # Required attributes.
   spec.name                  = "data_structure_error_library"
-  spec.version               = VERSION
+  spec.version = DataStructureErrorLibrary::VERSION
   spec.authors               = ["Bradley J. Tannor", 'Diligent Software LLC']
   spec.email                 = ["bradleytannor@gmail.com"]
   spec.summary               = %q{A DataStructureError exception class

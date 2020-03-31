@@ -4,5 +4,5 @@
 require 'data_structure_error_impl'
 
 class DataStructureErrorLibrary
-  VERSION = ::VERSION
+  VERSION = '0.2.1'.freeze()
 end
