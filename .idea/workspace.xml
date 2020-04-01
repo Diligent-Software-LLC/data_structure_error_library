@@ -26,14 +26,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7745e5d4-fa5b-4a26-b149-ac2bbe8b2312" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.rakeTasks" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/data_structure_error_library.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/data_structure_error_library.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/data_structure_error_library/version.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/data_structure_error_library/version.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/data_structure_error_library_test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/data_structure_error_library_test.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_helper.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,7 +158,7 @@
       <workItem from="1584373312668" duration="4930000" />
       <workItem from="1585671023595" duration="106000" />
       <workItem from="1585671958521" duration="987000" />
-      <workItem from="1585769125420" duration="2496000" />
+      <workItem from="1585769125420" duration="2863000" />
     </task>
     <task id="LOCAL-00001" summary="Initializing Remote Repository.&#10;&#10;Remote repository &quot;data_structure_error_library&quot; created.">
       <created>1583440984936</created>
@@ -237,10 +230,17 @@
       <option name="project" value="LOCAL" />
       <updated>1585770511030</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Development Complete&#10;&#10;required the interface in version.rb. Added YARD. Updated copyright statements. Reformatted data_structure_error_library_test.rb. Fixed test_helper.rb. Added the GNU General Public License, Version 3. Edited README.md. Added a .yardopts file.">
+      <created>1585772075246</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1585772075246</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers>
       <YouTrack url="https://macbook-pro.local:8443">
-        <option name="defaultSearch" value="project: DataStructure Subsystem: Library Component: Error Sprints: 4 #Development " />
+        <option name="defaultSearch" value="project: DataStructure Subsystem: Library Component: Error Sprints: 4 #Documenting" />
         <option name="shouldFormatCommitMessage" value="true" />
         <username>admin</username>
       </YouTrack>
@@ -273,7 +273,8 @@
     <MESSAGE value="Fixed Loading Bug&#10;&#10;Version was defined the Gem Specification file. Accessing the files outside the project raised errors." />
     <MESSAGE value="Updated CHANGELOG.md&#10;&#10;Updated Changelog." />
     <MESSAGE value="Setup Complete&#10;&#10;Added YARDocumentation in version.rb. Updated library version. Rewrote the Gem Specification." />
-    <option name="LAST_COMMIT_MESSAGE" value="Setup Complete&#10;&#10;Added YARDocumentation in version.rb. Updated library version. Rewrote the Gem Specification." />
+    <MESSAGE value="Development Complete&#10;&#10;required the interface in version.rb. Added YARD. Updated copyright statements. Reformatted data_structure_error_library_test.rb. Fixed test_helper.rb. Added the GNU General Public License, Version 3. Edited README.md. Added a .yardopts file." />
+    <option name="LAST_COMMIT_MESSAGE" value="Development Complete&#10;&#10;required the interface in version.rb. Added YARD. Updated copyright statements. Reformatted data_structure_error_library_test.rb. Fixed test_helper.rb. Added the GNU General Public License, Version 3. Edited README.md. Added a .yardopts file." />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -289,10 +290,10 @@
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="392" y="142" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.975@0.23.1680.975" timestamp="1583504971517" />
-    <state x="183" y="23" width="1252" height="974" key="CommitChangelistDialog2" timestamp="1585770510644">
+    <state x="183" y="23" width="1252" height="974" key="CommitChangelistDialog2" timestamp="1585772074998">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="183" y="23" width="1252" height="974" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1585770510644" />
+    <state x="183" y="23" width="1252" height="974" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1585772074998" />
     <state x="158" y="124" width="1346" height="774" key="DiffContextDialog" timestamp="1584377390018">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
