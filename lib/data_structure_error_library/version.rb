@@ -3,6 +3,9 @@
 
 require 'data_structure_error_impl'
 
+# DataStructureErrorLibrary.
+# @class_description
+#   Organizes the DataStructureError components.
 class DataStructureErrorLibrary
-  VERSION = '0.2.1'.freeze()
+  VERSION = '1.0.0'.freeze()
 end

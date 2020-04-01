@@ -25,9 +25,7 @@
     <option name="showStatusBarWidget" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7745e5d4-fa5b-4a26-b149-ac2bbe8b2312" name="Default Changelist" comment="Finishing Changes, Review&#10;&#10;Updated CHANGELOG.md. Updated dependencies.">
-      <change beforePath="$PROJECT_DIR$/.idea/.rakeTasks" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/data_structure_error_library.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/data_structure_error_library.iml" afterDir="false" />
+    <list default="true" id="7745e5d4-fa5b-4a26-b149-ac2bbe8b2312" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data_structure_error_library.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/data_structure_error_library.gemspec" afterDir="false" />
@@ -76,6 +74,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="upsource.global.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/artifacts" />
+    </key>
   </component>
   <component name="RubyModuleManagerSettings">
     <option name="blackListedRootsPaths">
@@ -157,7 +160,8 @@
       <workItem from="1583681919803" duration="68000" />
       <workItem from="1584373312668" duration="4930000" />
       <workItem from="1585671023595" duration="106000" />
-      <workItem from="1585671958521" duration="660000" />
+      <workItem from="1585671958521" duration="987000" />
+      <workItem from="1585769125420" duration="920000" />
     </task>
     <task id="LOCAL-00001" summary="Initializing Remote Repository.&#10;&#10;Remote repository &quot;data_structure_error_library&quot; created.">
       <created>1583440984936</created>
@@ -208,10 +212,24 @@
       <option name="project" value="LOCAL" />
       <updated>1584377462437</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Fixed Loading Bug&#10;&#10;Version was defined the Gem Specification file. Accessing the files outside the project raised errors.">
+      <created>1585672706565</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1585672706565</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Updated CHANGELOG.md&#10;&#10;Updated Changelog.">
+      <created>1585672785509</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1585672785509</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers>
       <YouTrack url="https://macbook-pro.local:8443">
-        <option name="defaultSearch" value="Board Library: 0.2.0 #{Deploy Preparation} " />
+        <option name="defaultSearch" value="project: DataStructure Subsystem: Library Component: Error Sprints: 4 #Setup " />
         <option name="shouldFormatCommitMessage" value="true" />
         <username>admin</username>
       </YouTrack>
@@ -241,7 +259,9 @@
     <MESSAGE value="Setup Complete&#10;&#10;Updated gemspec version, description, homepage, changelog URI, and dependencies. Rewrote README.md." />
     <MESSAGE value="In Progress Complete&#10;&#10;Wrote library tests. Formatted gem specification." />
     <MESSAGE value="Finishing Changes, Review&#10;&#10;Updated CHANGELOG.md. Updated dependencies." />
-    <option name="LAST_COMMIT_MESSAGE" value="Finishing Changes, Review&#10;&#10;Updated CHANGELOG.md. Updated dependencies." />
+    <MESSAGE value="Fixed Loading Bug&#10;&#10;Version was defined the Gem Specification file. Accessing the files outside the project raised errors." />
+    <MESSAGE value="Updated CHANGELOG.md&#10;&#10;Updated Changelog." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated CHANGELOG.md&#10;&#10;Updated Changelog." />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -257,38 +277,38 @@
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="392" y="142" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.975@0.23.1680.975" timestamp="1583504971517" />
-    <state x="183" y="23" width="1252" height="974" key="CommitChangelistDialog2" timestamp="1585672706271">
+    <state x="183" y="23" width="1252" height="974" key="CommitChangelistDialog2" timestamp="1585672785275">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="183" y="23" width="1252" height="974" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1585672706271" />
+    <state x="183" y="23" width="1252" height="974" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1585672785275" />
     <state x="158" y="124" width="1346" height="774" key="DiffContextDialog" timestamp="1584377390018">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="158" y="124" width="1346" height="774" key="DiffContextDialog/0.23.1680.975@0.23.1680.975" timestamp="1584377390018" />
-    <state width="1504" height="271" key="GridCell.Tab.0.bottom" timestamp="1585672637889">
+    <state width="1504" height="271" key="GridCell.Tab.0.bottom" timestamp="1585770377642">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1504" height="271" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1585672637889" />
-    <state width="1504" height="271" key="GridCell.Tab.0.center" timestamp="1585672637889">
+    <state width="1504" height="271" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1585770377642" />
+    <state width="1504" height="271" key="GridCell.Tab.0.center" timestamp="1585770377641">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1504" height="271" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1585672637889" />
-    <state width="1504" height="271" key="GridCell.Tab.0.left" timestamp="1585672637888">
+    <state width="1504" height="271" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1585770377641" />
+    <state width="1504" height="271" key="GridCell.Tab.0.left" timestamp="1585770377641">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1504" height="271" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1585672637888" />
-    <state width="1504" height="271" key="GridCell.Tab.0.right" timestamp="1585672637889">
+    <state width="1504" height="271" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1585770377641" />
+    <state width="1504" height="271" key="GridCell.Tab.0.right" timestamp="1585770377642">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1504" height="271" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1585672637889" />
+    <state width="1504" height="271" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1585770377642" />
     <state x="460" y="119" key="SettingsEditor" timestamp="1583681962226">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="460" y="119" key="SettingsEditor/0.23.1680.975@0.23.1680.975" timestamp="1583681962226" />
-    <state x="433" y="250" key="Vcs.Push.Dialog.v2" timestamp="1585672666251">
+    <state x="433" y="250" key="Vcs.Push.Dialog.v2" timestamp="1585672844919">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="433" y="250" key="Vcs.Push.Dialog.v2/0.23.1680.975@0.23.1680.975" timestamp="1585672666251" />
+    <state x="433" y="250" key="Vcs.Push.Dialog.v2/0.23.1680.975@0.23.1680.975" timestamp="1585672844919" />
     <state x="496" y="235" width="670" height="675" key="run.anything.popup" timestamp="1584378460924">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
@@ -299,6 +319,6 @@
     <state x="498" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1680.975@0.23.1680.975" timestamp="1584376898054" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/data_structure_error_library@DataStructureErrorLibraryTest.rcov" NAME="DataStructureErrorLibraryTest Coverage Results" MODIFIED="1584376828015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="data_structure_error_library" />
+    <SUITE FILE_PATH="coverage/data_structure_error_library@DataStructureErrorLibraryTest.rcov" NAME="DataStructureErrorLibraryTest Coverage Results" MODIFIED="1585672833390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="data_structure_error_library" />
   </component>
 </project>
