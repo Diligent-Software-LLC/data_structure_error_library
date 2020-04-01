@@ -1,5 +1,25 @@
 # Changelog
 
+## v1.0.0, 2020-04-01
+
+### Added
+
+- YARDocumentation.
+- GNU General Public License, version 3.
+- .yardopts file.
+
+### Edited
+
+- Gem Specification file. Updated attributes and dependencies. Reformatted.
+- version.rb. 'require'd the interface.
+- Updated copyright statements.
+- Reformatted data_structure_error_library_test.rb.
+- README.md.
+
+### Fixed
+
+- 'require' statements.
+
 ## v0.2.1, 2020-03-31
 
 ### Added
