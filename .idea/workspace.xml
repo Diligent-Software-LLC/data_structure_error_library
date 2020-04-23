@@ -25,12 +25,12 @@
     <option name="showStatusBarWidget" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7745e5d4-fa5b-4a26-b149-ac2bbe8b2312" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structure_error_library.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/data_structure_error_library.gemspec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/data_structure_error_library.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/data_structure_error_library/version.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/data_structure_error_library/version.rb" afterDir="false" />
+    <list default="true" id="7745e5d4-fa5b-4a26-b149-ac2bbe8b2312" name="Default Changelist" comment="Setup Complete&#10;&#10;Bumped Major Version. Renamed the library class file data_structure_error.rb. Fixed the Gem Specification License attribute. Fixed the Gem Specification metadata's Changelog URI. Rewrote the dependencies.">
+      <change beforePath="$PROJECT_DIR$/.idea/.rakeTasks" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/data_structure_error_library_test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/data_structure_error_library_test.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_helper.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,7 +165,7 @@
       <workItem from="1585671023595" duration="106000" />
       <workItem from="1585671958521" duration="987000" />
       <workItem from="1585769125420" duration="4024000" />
-      <workItem from="1587661859476" duration="384000" />
+      <workItem from="1587661859476" duration="1096000" />
     </task>
     <task id="LOCAL-00001" summary="Initializing Remote Repository.&#10;&#10;Remote repository &quot;data_structure_error_library&quot; created.">
       <created>1583440984936</created>
@@ -258,10 +258,17 @@
       <option name="project" value="LOCAL" />
       <updated>1585772940165</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Setup Complete&#10;&#10;Bumped Major Version. Renamed the library class file data_structure_error.rb. Fixed the Gem Specification License attribute. Fixed the Gem Specification metadata's Changelog URI. Rewrote the dependencies.">
+      <created>1587662589422</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1587662589422</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers>
       <YouTrack url="https://macbook-pro.local:8443">
-        <option name="defaultSearch" value="project: DataStructure Subsystem: Error Component: Library Sprints: 6 #{Setup } " />
+        <option name="defaultSearch" value="project: DataStructure Subsystem: Error Component: Library Sprints: 6 #{Development} " />
         <option name="shouldFormatCommitMessage" value="true" />
         <username>admin</username>
       </YouTrack>
@@ -297,7 +304,8 @@
     <MESSAGE value="Development Complete&#10;&#10;required the interface in version.rb. Added YARD. Updated copyright statements. Reformatted data_structure_error_library_test.rb. Fixed test_helper.rb. Added the GNU General Public License, Version 3. Edited README.md. Added a .yardopts file." />
     <MESSAGE value="Documenting Complete&#10;&#10;Fixed YARD in data_structure_error_library_test.rb." />
     <MESSAGE value="Deploy Preparation&#10;&#10;Updated CHANGELOG.md." />
-    <option name="LAST_COMMIT_MESSAGE" value="Deploy Preparation&#10;&#10;Updated CHANGELOG.md." />
+    <MESSAGE value="Setup Complete&#10;&#10;Bumped Major Version. Renamed the library class file data_structure_error.rb. Fixed the Gem Specification License attribute. Fixed the Gem Specification metadata's Changelog URI. Rewrote the dependencies." />
+    <option name="LAST_COMMIT_MESSAGE" value="Setup Complete&#10;&#10;Bumped Major Version. Renamed the library class file data_structure_error.rb. Fixed the Gem Specification License attribute. Fixed the Gem Specification metadata's Changelog URI. Rewrote the dependencies." />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -313,30 +321,30 @@
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="392" y="142" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.975@0.23.1680.975" timestamp="1583504971517" />
-    <state x="183" y="23" width="1252" height="974" key="CommitChangelistDialog2" timestamp="1585772939903">
+    <state x="172" y="62" width="1381" height="905" key="CommitChangelistDialog2" timestamp="1587662588953">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="183" y="23" width="1252" height="974" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1585772939903" />
+    <state x="172" y="62" width="1381" height="905" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1587662588953" />
     <state x="158" y="124" width="1346" height="774" key="DiffContextDialog" timestamp="1585772914655">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="158" y="124" width="1346" height="774" key="DiffContextDialog/0.23.1680.975@0.23.1680.975" timestamp="1585772914655" />
-    <state width="1540" height="271" key="GridCell.Tab.0.bottom" timestamp="1587662398200">
+    <state width="1540" height="271" key="GridCell.Tab.0.bottom" timestamp="1587662857906">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1540" height="271" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1587662398200" />
-    <state width="1540" height="271" key="GridCell.Tab.0.center" timestamp="1587662398199">
+    <state width="1540" height="271" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1587662857906" />
+    <state width="1540" height="271" key="GridCell.Tab.0.center" timestamp="1587662857905">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1540" height="271" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1587662398199" />
-    <state width="1540" height="271" key="GridCell.Tab.0.left" timestamp="1587662398199">
+    <state width="1540" height="271" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1587662857905" />
+    <state width="1540" height="271" key="GridCell.Tab.0.left" timestamp="1587662857902">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1540" height="271" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1587662398199" />
-    <state width="1540" height="271" key="GridCell.Tab.0.right" timestamp="1587662398200">
+    <state width="1540" height="271" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1587662857902" />
+    <state width="1540" height="271" key="GridCell.Tab.0.right" timestamp="1587662857905">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1540" height="271" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1587662398200" />
+    <state width="1540" height="271" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1587662857905" />
     <state x="460" y="119" key="SettingsEditor" timestamp="1583681962226">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
@@ -353,12 +361,12 @@
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="496" y="235" width="670" height="675" key="run.anything.popup/0.23.1680.975@0.23.1680.975" timestamp="1587662045307" />
-    <state x="498" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1587662411807">
+    <state x="498" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1587662950942">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="498" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1680.975@0.23.1680.975" timestamp="1587662411807" />
+    <state x="498" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1680.975@0.23.1680.975" timestamp="1587662950942" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/data_structure_error_library@DataStructureErrorLibraryTest.rcov" NAME="DataStructureErrorLibraryTest Coverage Results" MODIFIED="1585771436262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="data_structure_error_library" />
+    <SUITE FILE_PATH="coverage/data_structure_error_library@DataStructureErrorLibraryTest.rcov" NAME="DataStructureErrorLibraryTest Coverage Results" MODIFIED="1587662852553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="data_structure_error_library" />
   </component>
 </project>
