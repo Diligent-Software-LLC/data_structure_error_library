@@ -1,5 +1,24 @@
 # Changelog
 
+## v2.0.0, 2020-04-23
+
+### Added
+
+- A .yardopts file assertion.
+
+### Edited
+
+- Renamed the library class file data_structure_error.rb.
+- Rewrote the dependencies. The interface and implementation are runtime
+ dependencies.
+- Deleted Travis CI deployment settings.
+
+### Fixed
+
+- Gem Specification License attribute.
+- Changelog URI.
+- test_helper.rb's 'require_relative' statement.
+
 ## v1.0.0, 2020-04-01
 
 ### Added
